@@ -10,4 +10,5 @@ temp="${latest_file%%.*}"
 
 temp2="${temp#*/temp/}"
 
+echo "[$(date +'%Y-%m-%d %H:%M:%S') - second_latest_file.sh] Second latest file: ${temp2}" >> /home/g6/emli-mini-project/log/log.txt
 echo "${temp2}"

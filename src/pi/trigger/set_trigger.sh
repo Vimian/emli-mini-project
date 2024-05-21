@@ -16,4 +16,4 @@ fi
 jq --arg new_trigger "$new_trigger_value" '.Trigger = $new_trigger' "$json_file" > tmp.json && mv tmp.json "$json_file"
 
 
-echo "Trigger value updated successfully"
+echo "[$(date +'%Y-%m-%d %H:%M:%S') - set_trigger.sh] Trigger value updated to ${new_trigger_value} successfully" >> /home/g6/emli-mini-project/log/log.txt

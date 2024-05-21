@@ -1,0 +1,727 @@
+
+[2024-05-21 16:12:37 - take_photo.sh] Took photo and saved 161234_897.jpg in temp folder}
+[2024-05-21 16:12:40 - take_photo.sh] Took photo and saved 161237_901.jpg in temp folder}
+[2024-05-21 16:12:43 - take_photo.sh] Took photo and saved 161240_906.jpg in temp folder}
+[2024-05-21 16:12:46 - take_photo.sh] Took photo and saved 161243_911.jpg in temp folder}
+[2024-05-21 16:12:49 - take_photo.sh] Took photo and saved 161246_915.jpg in temp folder}
+[2024-05-21 16:12:52 - take_photo.sh] Took photo and saved 161249_919.jpg in temp folder}
+[2024-05-21 16:12:55 - take_photo.sh] Took photo and saved 161252_924.jpg in temp folder}
+[2024-05-21 16:12:56 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161222_879.jpg
+[2024-05-21 16:12:56 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161222_879.json
+[2024-05-21 16:12:58 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161225_883.jpg
+[2024-05-21 16:12:58 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161225_883.json
+[2024-05-21 16:12:58 - take_photo.sh] Took photo and saved 161255_928.jpg in temp folder}
+[2024-05-21 16:12:59 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161219_875.jpg
+[2024-05-21 16:12:59 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161219_875.json
+[2024-05-21 16:13:00 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161216_870.jpg
+[2024-05-21 16:13:00 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161216_870.json
+[2024-05-21 16:13:01 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161228_888.jpg
+[2024-05-21 16:13:01 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161228_888.json
+[2024-05-21 16:13:01 - take_photo.sh] Took photo and saved 161258_933.jpg in temp folder}
+[2024-05-21 16:13:02 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161213_866.jpg
+[2024-05-21 16:13:02 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161213_866.json
+[2024-05-21 16:13:03 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161210_861.jpg
+[2024-05-21 16:13:03 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161210_861.json
+[2024-05-21 16:13:03 - latest_file.sh] Latest file: 2024-05-21/161258_933
+[2024-05-21 16:13:03 - secon_latest_file.sh] Second latest file: 2024-05-21/161255_928
+[2024-05-21 16:13:04 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161231_893.jpg
+[2024-05-21 16:13:04 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161231_893.json
+[2024-05-21 16:13:04 - take_photo.sh] Took photo and saved 161301_938.jpg in temp folder}
+[2024-05-21 16:13:05 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161207_856.jpg
+[2024-05-21 16:13:05 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161207_856.json
+[2024-05-21 16:13:05 - latest_file.sh] Latest file: 2024-05-21/161301_938
+[2024-05-21 16:13:05 - set_trigger.sh] Trigger value updated to Time successfully
+[2024-05-21 16:13:05 - move_image.sh] Saved 2024-05-21/161301_938
+[2024-05-21 16:13:05 - time_trigger.sh] Saving image due to time trigger
+[2024-05-21 16:13:06 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161234_897.jpg
+[2024-05-21 16:13:06 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161234_897.json
+[2024-05-21 16:13:06 - latest_file.sh] Latest file: 2024-05-21/161301_938
+[2024-05-21 16:13:06 - secon_latest_file.sh] Second latest file: 2024-05-21/161258_933
+[2024-05-21 16:13:07 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161204_852.jpg
+[2024-05-21 16:13:07 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161204_852.json
+[2024-05-21 16:13:07 - take_photo.sh] Took photo and saved 161304_944.jpg in temp folder}
+[2024-05-21 16:13:08 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161201_848.jpg
+[2024-05-21 16:13:08 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161201_848.json
+[2024-05-21 16:13:09 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161237_901.jpg
+[2024-05-21 16:13:09 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161237_901.json
+[2024-05-21 16:13:09 - latest_file.sh] Latest file: 2024-05-21/161304_944
+[2024-05-21 16:13:09 - secon_latest_file.sh] Second latest file: 2024-05-21/161301_938
+[2024-05-21 16:13:10 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161158_844.jpg
+[2024-05-21 16:13:10 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161158_844.json
+[2024-05-21 16:13:10 - take_photo.sh] Took photo and saved 161307_950.jpg in temp folder}
+[2024-05-21 16:13:11 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161155_839.jpg
+[2024-05-21 16:13:11 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161155_839.json
+[2024-05-21 16:13:12 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161240_906.jpg
+[2024-05-21 16:13:12 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161240_906.json
+[2024-05-21 16:13:13 - latest_file.sh] Latest file: 2024-05-21/161307_950
+[2024-05-21 16:13:13 - secon_latest_file.sh] Second latest file: 2024-05-21/161304_944
+[2024-05-21 16:13:13 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161152_835.jpg
+[2024-05-21 16:13:13 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161152_835.json
+[2024-05-21 16:13:13 - take_photo.sh] Took photo and saved 161310_956.jpg in temp folder}
+[2024-05-21 16:13:14 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161149_831.jpg
+[2024-05-21 16:13:14 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161149_831.json
+[2024-05-21 16:13:15 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161243_911.jpg
+[2024-05-21 16:13:15 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161243_911.json
+[2024-05-21 16:13:16 - latest_file.sh] Latest file: 2024-05-21/161310_956
+[2024-05-21 16:13:16 - secon_latest_file.sh] Second latest file: 2024-05-21/161307_950
+[2024-05-21 16:13:16 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161146_826.jpg
+[2024-05-21 16:13:16 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161146_826.json
+[2024-05-21 16:13:16 - take_photo.sh] Took photo and saved 161313_962.jpg in temp folder}
+[2024-05-21 16:13:17 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161143_821.jpg
+[2024-05-21 16:13:17 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161143_821.json
+[2024-05-21 16:13:18 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161246_915.jpg
+[2024-05-21 16:13:18 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161246_915.json
+[2024-05-21 16:13:19 - latest_file.sh] Latest file: 2024-05-21/161313_962
+[2024-05-21 16:13:19 - secon_latest_file.sh] Second latest file: 2024-05-21/161310_956
+[2024-05-21 16:13:19 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161140_817.jpg
+[2024-05-21 16:13:19 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161140_817.json
+[2024-05-21 16:13:19 - take_photo.sh] Took photo and saved 161316_968.jpg in temp folder}
+[2024-05-21 16:13:20 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161137_813.jpg
+[2024-05-21 16:13:20 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161137_813.json
+[2024-05-21 16:13:21 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161249_919.jpg
+[2024-05-21 16:13:21 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161249_919.json
+[2024-05-21 16:13:22 - latest_file.sh] Latest file: 2024-05-21/161316_968
+[2024-05-21 16:13:22 - secon_latest_file.sh] Second latest file: 2024-05-21/161313_962
+[2024-05-21 16:13:22 - take_photo.sh] Took photo and saved 161319_973.jpg in temp folder}
+[2024-05-21 16:13:22 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161134_809.jpg
+[2024-05-21 16:13:22 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161134_809.json
+[2024-05-21 16:13:23 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161131_805.jpg
+[2024-05-21 16:13:23 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161131_805.json
+[2024-05-21 16:13:24 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161252_924.jpg
+[2024-05-21 16:13:24 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161252_924.json
+[2024-05-21 16:13:25 - latest_file.sh] Latest file: 2024-05-21/161319_973
+[2024-05-21 16:13:25 - secon_latest_file.sh] Second latest file: 2024-05-21/161316_968
+[2024-05-21 16:13:25 - take_photo.sh] Took photo and saved 161322_979.jpg in temp folder}
+[2024-05-21 16:13:25 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161128_800.jpg
+[2024-05-21 16:13:25 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161128_800.json
+[2024-05-21 16:13:26 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161125_796.jpg
+[2024-05-21 16:13:26 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161125_796.json
+[2024-05-21 16:13:27 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161255_928.jpg
+[2024-05-21 16:13:27 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161255_928.json
+[2024-05-21 16:13:28 - latest_file.sh] Latest file: 2024-05-21/161322_979
+[2024-05-21 16:13:28 - take_photo.sh] Took photo and saved 161325_986.jpg in temp folder}
+[2024-05-21 16:13:28 - secon_latest_file.sh] Second latest file: 2024-05-21/161322_979
+[2024-05-21 16:13:28 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161122_792.jpg
+[2024-05-21 16:13:28 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161122_792.json
+[2024-05-21 16:13:29 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161119_788.jpg
+[2024-05-21 16:13:29 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161119_788.json
+[2024-05-21 16:13:30 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161258_933.jpg
+[2024-05-21 16:13:30 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161258_933.json
+[2024-05-21 16:13:31 - take_photo.sh] Took photo and saved 161328_992.jpg in temp folder}
+[2024-05-21 16:13:31 - latest_file.sh] Latest file: 2024-05-21/161328_992
+[2024-05-21 16:13:31 - secon_latest_file.sh] Second latest file: 2024-05-21/161325_986
+[2024-05-21 16:13:32 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161116_783.jpg
+[2024-05-21 16:13:32 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161116_783.json
+[2024-05-21 16:13:33 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161113_778.jpg
+[2024-05-21 16:13:33 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161113_778.json
+[2024-05-21 16:13:34 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161301_938.jpg
+[2024-05-21 16:13:34 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161301_938.json
+[2024-05-21 16:13:34 - take_photo.sh] Took photo and saved 161332_003.jpg in temp folder}
+[2024-05-21 16:13:34 - latest_file.sh] Latest file: 2024-05-21/161332_003
+[2024-05-21 16:13:34 - secon_latest_file.sh] Second latest file: 2024-05-21/161328_992
+[2024-05-21 16:13:35 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161110_773.jpg
+[2024-05-21 16:13:35 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161110_773.json
+[2024-05-21 16:13:36 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161107_769.jpg
+[2024-05-21 16:13:36 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161107_769.json
+[2024-05-21 16:13:37 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161304_944.jpg
+[2024-05-21 16:13:37 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161304_944.json
+[2024-05-21 16:13:37 - take_photo.sh] Took photo and saved 161335_004.jpg in temp folder}
+[2024-05-21 16:13:37 - latest_file.sh] Latest file: 2024-05-21/161335_004
+[2024-05-21 16:13:37 - secon_latest_file.sh] Second latest file: 2024-05-21/161332_003
+[2024-05-21 16:13:38 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161104_765.jpg
+[2024-05-21 16:13:38 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161104_765.json
+[2024-05-21 16:13:39 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161101_760.jpg
+[2024-05-21 16:13:39 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161101_760.json
+[2024-05-21 16:13:40 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161307_950.jpg
+[2024-05-21 16:13:40 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161307_950.json
+[2024-05-21 16:13:40 - take_photo.sh] Took photo and saved 161338_012.jpg in temp folder}
+[2024-05-21 16:13:41 - latest_file.sh] Latest file: 2024-05-21/161338_012
+[2024-05-21 16:13:41 - secon_latest_file.sh] Second latest file: 2024-05-21/161335_004
+[2024-05-21 16:13:41 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161058_755.jpg
+[2024-05-21 16:13:41 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161058_755.json
+[2024-05-21 16:13:42 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161310_956.jpg
+[2024-05-21 16:13:42 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161310_956.json
+[2024-05-21 16:13:43 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161055_751.jpg
+[2024-05-21 16:13:43 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161055_751.json
+[2024-05-21 16:13:43 - take_photo.sh] Took photo and saved 161341_021.jpg in temp folder}
+[2024-05-21 16:13:44 - latest_file.sh] Latest file: 2024-05-21/161341_021
+[2024-05-21 16:13:44 - secon_latest_file.sh] Second latest file: 2024-05-21/161338_012
+[2024-05-21 16:13:44 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161052_747.jpg
+[2024-05-21 16:13:44 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161052_747.json
+[2024-05-21 16:13:45 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161313_962.jpg
+[2024-05-21 16:13:45 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161313_962.json
+[2024-05-21 16:13:46 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161049_743.jpg
+[2024-05-21 16:13:46 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161049_743.json
+[2024-05-21 16:13:46 - take_photo.sh] Took photo and saved 161344_036.jpg in temp folder}
+[2024-05-21 16:13:47 - latest_file.sh] Latest file: 2024-05-21/161344_036
+[2024-05-21 16:13:47 - secon_latest_file.sh] Second latest file: 2024-05-21/161341_021
+[2024-05-21 16:13:47 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161046_738.jpg
+[2024-05-21 16:13:47 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161046_738.json
+[2024-05-21 16:13:48 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161316_968.jpg
+[2024-05-21 16:13:48 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161316_968.json
+[2024-05-21 16:13:49 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161043_733.jpg
+[2024-05-21 16:13:49 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161043_733.json
+[2024-05-21 16:13:49 - take_photo.sh] Took photo and saved 161347_042.jpg in temp folder}
+[2024-05-21 16:13:50 - latest_file.sh] Latest file: 2024-05-21/161347_042
+[2024-05-21 16:13:50 - secon_latest_file.sh] Second latest file: 2024-05-21/161344_036
+[2024-05-21 16:13:50 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161040_729.jpg
+[2024-05-21 16:13:50 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161040_729.json
+[2024-05-21 16:13:51 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161037_724.jpg
+[2024-05-21 16:13:51 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161037_724.json
+[2024-05-21 16:13:52 - externak_trigger.sh] Wildlife triggered sensor, saving photo
+[2024-05-21 16:13:52 - latest_file.sh] Latest file: 2024-05-21/161347_042
+[2024-05-21 16:13:52 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161319_973.jpg
+[2024-05-21 16:13:52 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161319_973.json
+[2024-05-21 16:13:52 - set_trigger.sh] Trigger value updated to External successfully
+[2024-05-21 16:13:52 - move_image.sh] Saved 2024-05-21/161347_042
+[2024-05-21 16:13:53 - take_photo.sh] Took photo and saved 161350_048.jpg in temp folder}
+[2024-05-21 16:13:53 - latest_file.sh] Latest file: 2024-05-21/161347_042
+[2024-05-21 16:13:53 - secon_latest_file.sh] Second latest file: 2024-05-21/161347_042
+[2024-05-21 16:13:53 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161034_719.jpg
+[2024-05-21 16:13:53 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161034_719.json
+[2024-05-21 16:13:54 - externak_trigger.sh] Wildlife triggered sensor, saving photo
+[2024-05-21 16:13:54 - latest_file.sh] Latest file: 2024-05-21/161347_042
+[2024-05-21 16:13:54 - set_trigger.sh] Trigger value updated to External successfully
+[2024-05-21 16:13:54 - move_image.sh] Saved 2024-05-21/161347_042
+[2024-05-21 16:13:54 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161322_979.jpg
+[2024-05-21 16:13:54 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161322_979.json
+[2024-05-21 16:13:55 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161031_714.jpg
+[2024-05-21 16:13:55 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161031_714.json
+[2024-05-21 16:13:56 - take_photo.sh] Took photo and saved 161353_400.jpg in temp folder}
+[2024-05-21 16:13:56 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161028_709.jpg
+[2024-05-21 16:13:56 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161028_709.json
+[2024-05-21 16:13:56 - latest_file.sh] Latest file: 2024-05-21/161353_400
+[2024-05-21 16:13:56 - secon_latest_file.sh] Second latest file: 2024-05-21/161350_048
+[2024-05-21 16:13:57 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161325_986.jpg
+[2024-05-21 16:13:57 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161325_986.json
+[2024-05-21 16:13:58 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161025_705.jpg
+[2024-05-21 16:13:58 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161025_705.json
+[2024-05-21 16:13:59 - take_photo.sh] Took photo and saved 161356_407.jpg in temp folder}
+[2024-05-21 16:13:59 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161022_701.jpg
+[2024-05-21 16:13:59 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161022_701.json
+[2024-05-21 16:13:59 - latest_file.sh] Latest file: 2024-05-21/161356_407
+[2024-05-21 16:13:59 - movement_trigger.sh] Movement detected in photos, saving last photo
+[2024-05-21 16:14:00 - set_trigger.sh] Trigger value updated to Motion successfully
+[2024-05-21 16:14:00 - move_image.sh] Saved 2024-05-21/161356_407
+[2024-05-21 16:14:00 - latest_file.sh] Latest file: 2024-05-21/161356_407
+[2024-05-21 16:14:00 - secon_latest_file.sh] Second latest file: 2024-05-21/161353_400
+[2024-05-21 16:14:00 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161328_992.jpg
+[2024-05-21 16:14:00 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161328_992.json
+[2024-05-21 16:14:01 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161019_696.jpg
+[2024-05-21 16:14:01 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161019_696.json
+[2024-05-21 16:14:02 - take_photo.sh] Took photo and saved 161359_413.jpg in temp folder}
+[2024-05-21 16:14:02 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161016_692.jpg
+[2024-05-21 16:14:02 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161016_692.json
+[2024-05-21 16:14:03 - latest_file.sh] Latest file: 2024-05-21/161359_413
+[2024-05-21 16:14:03 - movement_trigger.sh] Movement detected in photos, saving last photo
+[2024-05-21 16:14:03 - set_trigger.sh] Trigger value updated to Motion successfully
+[2024-05-21 16:14:03 - move_image.sh] Saved 2024-05-21/161359_413
+[2024-05-21 16:14:03 - latest_file.sh] Latest file: 2024-05-21/161359_413
+[2024-05-21 16:14:03 - secon_latest_file.sh] Second latest file: 2024-05-21/161356_407
+[2024-05-21 16:14:04 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161332_003.jpg
+[2024-05-21 16:14:04 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161332_003.json
+[2024-05-21 16:14:05 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161013_688.jpg
+[2024-05-21 16:14:05 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161013_688.json
+[2024-05-21 16:14:05 - take_photo.sh] Took photo and saved 161402_418.jpg in temp folder}
+[2024-05-21 16:14:06 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161010_684.jpg
+[2024-05-21 16:14:06 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161010_684.json
+[2024-05-21 16:14:06 - latest_file.sh] Latest file: 2024-05-21/161402_418
+[2024-05-21 16:14:06 - movement_trigger.sh] Movement detected in photos, saving last photo
+[2024-05-21 16:14:06 - set_trigger.sh] Trigger value updated to Motion successfully
+[2024-05-21 16:14:06 - move_image.sh] Saved 2024-05-21/161402_418
+[2024-05-21 16:14:06 - latest_file.sh] Latest file: 2024-05-21/161402_418
+[2024-05-21 16:14:06 - secon_latest_file.sh] Second latest file: 2024-05-21/161359_413
+[2024-05-21 16:14:07 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161335_004.jpg
+[2024-05-21 16:14:07 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161335_004.json
+[2024-05-21 16:14:08 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161007_679.jpg
+[2024-05-21 16:14:08 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161007_679.json
+[2024-05-21 16:14:08 - take_photo.sh] Took photo and saved 161405_423.jpg in temp folder}
+[2024-05-21 16:14:09 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161004_674.jpg
+[2024-05-21 16:14:09 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161004_674.json
+[2024-05-21 16:14:09 - latest_file.sh] Latest file: 2024-05-21/161405_423
+[2024-05-21 16:14:09 - movement_trigger.sh] Movement detected in photos, saving last photo
+[2024-05-21 16:14:09 - set_trigger.sh] Trigger value updated to Motion successfully
+[2024-05-21 16:14:09 - move_image.sh] Saved 2024-05-21/161405_423
+[2024-05-21 16:14:10 - latest_file.sh] Latest file: 2024-05-21/161408_429
+[2024-05-21 16:14:10 - secon_latest_file.sh] Second latest file: 2024-05-21/161402_418
+[2024-05-21 16:14:10 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161338_012.jpg
+[2024-05-21 16:14:10 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161338_012.json
+[2024-05-21 16:14:11 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161001_670.jpg
+[2024-05-21 16:14:11 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161001_670.json
+[2024-05-21 16:14:11 - take_photo.sh] Took photo and saved 161408_429.jpg in temp folder}
+[2024-05-21 16:14:12 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160958_665.jpg
+[2024-05-21 16:14:12 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160958_665.json
+[2024-05-21 16:14:13 - latest_file.sh] Latest file: 2024-05-21/161408_429
+[2024-05-21 16:14:13 - secon_latest_file.sh] Second latest file: 2024-05-21/161408_429
+[2024-05-21 16:14:13 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161341_021.jpg
+[2024-05-21 16:14:13 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161341_021.json
+[2024-05-21 16:14:14 - take_photo.sh] Took photo and saved 161411_435.jpg in temp folder}
+[2024-05-21 16:14:14 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160955_660.jpg
+[2024-05-21 16:14:14 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160955_660.json
+[2024-05-21 16:14:15 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160952_655.jpg
+[2024-05-21 16:14:15 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160952_655.json
+[2024-05-21 16:14:16 - latest_file.sh] Latest file: 2024-05-21/161411_435
+[2024-05-21 16:14:16 - secon_latest_file.sh] Second latest file: 2024-05-21/161408_429
+[2024-05-21 16:14:16 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161344_036.jpg
+[2024-05-21 16:14:16 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161344_036.json
+[2024-05-21 16:14:17 - take_photo.sh] Took photo and saved 161414_441.jpg in temp folder}
+[2024-05-21 16:14:17 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160949_650.jpg
+[2024-05-21 16:14:17 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160949_650.json
+[2024-05-21 16:14:18 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160946_646.jpg
+[2024-05-21 16:14:18 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160946_646.json
+[2024-05-21 16:14:19 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161347_042.jpg
+[2024-05-21 16:14:19 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161347_042.json
+[2024-05-21 16:14:19 - latest_file.sh] Latest file: 2024-05-21/161414_441
+[2024-05-21 16:14:19 - secon_latest_file.sh] Second latest file: 2024-05-21/161411_435
+[2024-05-21 16:14:20 - take_photo.sh] Took photo and saved 161417_453.jpg in temp folder}
+[2024-05-21 16:14:20 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160943_641.jpg
+[2024-05-21 16:14:20 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160943_641.json
+[2024-05-21 16:14:21 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160940_637.jpg
+[2024-05-21 16:14:21 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160940_637.json
+[2024-05-21 16:14:22 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161350_048.jpg
+[2024-05-21 16:14:22 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161350_048.json
+[2024-05-21 16:14:22 - latest_file.sh] Latest file: 2024-05-21/161417_453
+[2024-05-21 16:14:22 - secon_latest_file.sh] Second latest file: 2024-05-21/161414_441
+[2024-05-21 16:14:23 - take_photo.sh] Took photo and saved 161420_454.jpg in temp folder}
+[2024-05-21 16:14:23 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160937_632.jpg
+[2024-05-21 16:14:23 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160937_632.json
+[2024-05-21 16:14:24 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160934_628.jpg
+[2024-05-21 16:14:24 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160934_628.json
+[2024-05-21 16:14:25 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161353_400.jpg
+[2024-05-21 16:14:25 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161353_400.json
+[2024-05-21 16:14:25 - latest_file.sh] Latest file: 2024-05-21/161420_454
+[2024-05-21 16:14:25 - secon_latest_file.sh] Second latest file: 2024-05-21/161417_453
+[2024-05-21 16:14:26 - take_photo.sh] Took photo and saved 161423_460.jpg in temp folder}
+[2024-05-21 16:14:26 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160931_623.jpg
+[2024-05-21 16:14:26 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160931_623.json
+[2024-05-21 16:14:27 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161356_407.jpg
+[2024-05-21 16:14:27 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161356_407.json
+[2024-05-21 16:14:28 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160928_619.jpg
+[2024-05-21 16:14:28 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160928_619.json
+[2024-05-21 16:14:28 - latest_file.sh] Latest file: 2024-05-21/161423_460
+[2024-05-21 16:14:28 - secon_latest_file.sh] Second latest file: 2024-05-21/161420_454
+[2024-05-21 16:14:29 - take_photo.sh] Took photo and saved 161426_467.jpg in temp folder}
+[2024-05-21 16:14:32 - take_photo.sh] Took photo and saved 161429_472.jpg in temp folder}
+[2024-05-21 16:36:12 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161359_413.jpg
+[2024-05-21 16:36:12 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161359_413.json
+[2024-05-21 16:36:13 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160925_614.jpg
+[2024-05-21 16:36:13 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160925_614.json
+[2024-05-21 16:36:14 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160922_610.jpg
+[2024-05-21 16:36:14 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160922_610.json
+[2024-05-21 16:36:15 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160919_605.jpg
+[2024-05-21 16:36:15 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160919_605.json
+[2024-05-21 16:36:16 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160916_600.jpg
+[2024-05-21 16:36:16 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160916_600.json
+[2024-05-21 16:36:17 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160913_596.jpg
+[2024-05-21 16:36:17 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160913_596.json
+[2024-05-21 16:36:18 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160910_591.jpg
+[2024-05-21 16:36:18 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160910_591.json
+[2024-05-21 16:36:19 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160907_586.jpg
+[2024-05-21 16:36:19 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160907_586.json
+[2024-05-21 16:36:20 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160904_582.jpg
+[2024-05-21 16:36:20 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160904_582.json
+[2024-05-21 16:36:21 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160901_577.jpg
+[2024-05-21 16:36:21 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160901_577.json
+[2024-05-21 16:36:22 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160858_572.jpg
+[2024-05-21 16:36:22 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160858_572.json
+[2024-05-21 16:36:23 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160855_568.jpg
+[2024-05-21 16:36:23 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160855_568.json
+[2024-05-21 16:36:24 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160852_563.jpg
+[2024-05-21 16:36:24 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160852_563.json
+[2024-05-21 16:36:25 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160849_559.jpg
+[2024-05-21 16:36:25 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160849_559.json
+[2024-05-21 16:36:26 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160846_554.jpg
+[2024-05-21 16:36:26 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160846_554.json
+[2024-05-21 16:36:27 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160843_549.jpg
+[2024-05-21 16:36:27 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160843_549.json
+[2024-05-21 16:36:28 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160840_545.jpg
+[2024-05-21 16:36:28 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160840_545.json
+[2024-05-21 16:36:29 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160837_540.jpg
+[2024-05-21 16:36:29 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160837_540.json
+[2024-05-21 16:36:30 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160834_536.jpg
+[2024-05-21 16:36:30 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160834_536.json
+[2024-05-21 16:36:31 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160831_531.jpg
+[2024-05-21 16:36:31 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160831_531.json
+[2024-05-21 16:36:32 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160828_527.jpg
+[2024-05-21 16:36:32 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160828_527.json
+[2024-05-21 16:36:33 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160825_522.jpg
+[2024-05-21 16:36:33 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160825_522.json
+[2024-05-21 16:36:35 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160822_517.jpg
+[2024-05-21 16:36:35 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160822_517.json
+[2024-05-21 16:36:36 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160819_513.jpg
+[2024-05-21 16:36:36 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160819_513.json
+[2024-05-21 16:36:37 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160816_508.jpg
+[2024-05-21 16:36:37 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160816_508.json
+[2024-05-21 16:36:38 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160813_503.jpg
+[2024-05-21 16:36:38 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160813_503.json
+[2024-05-21 16:36:39 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160810_498.jpg
+[2024-05-21 16:36:39 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160810_498.json
+[2024-05-21 16:36:40 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160807_494.jpg
+[2024-05-21 16:36:40 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160807_494.json
+[2024-05-21 16:36:41 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160804_489.jpg
+[2024-05-21 16:36:41 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160804_489.json
+[2024-05-21 16:36:42 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160801_484.jpg
+[2024-05-21 16:36:42 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160801_484.json
+[2024-05-21 16:36:43 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160758_480.jpg
+[2024-05-21 16:36:43 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160758_480.json
+[2024-05-21 16:36:44 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160755_476.jpg
+[2024-05-21 16:36:44 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160755_476.json
+[2024-05-21 16:36:45 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160752_472.jpg
+[2024-05-21 16:36:45 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160752_472.json
+[2024-05-21 16:36:46 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160749_467.jpg
+[2024-05-21 16:36:46 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160749_467.json
+[2024-05-21 16:36:47 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160746_463.jpg
+[2024-05-21 16:36:47 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160746_463.json
+[2024-05-21 16:36:48 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160743_458.jpg
+[2024-05-21 16:36:48 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160743_458.json
+[2024-05-21 16:36:49 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160740_453.jpg
+[2024-05-21 16:36:49 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160740_453.json
+[2024-05-21 16:36:50 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160737_448.jpg
+[2024-05-21 16:36:50 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160737_448.json
+[2024-05-21 16:36:51 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160734_444.jpg
+[2024-05-21 16:36:51 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160734_444.json
+[2024-05-21 16:36:52 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160731_440.jpg
+[2024-05-21 16:36:52 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160731_440.json
+[2024-05-21 16:36:53 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160728_436.jpg
+[2024-05-21 16:36:53 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160728_436.json
+[2024-05-21 16:36:54 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160725_429.jpg
+[2024-05-21 16:36:54 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160725_429.json
+[2024-05-21 16:36:55 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160722_424.jpg
+[2024-05-21 16:36:55 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160722_424.json
+[2024-05-21 16:36:56 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160719_417.jpg
+[2024-05-21 16:36:56 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160719_417.json
+[2024-05-21 16:36:57 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160716_412.jpg
+[2024-05-21 16:36:57 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160716_412.json
+[2024-05-21 16:36:58 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160713_406.jpg
+[2024-05-21 16:36:58 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160713_406.json
+[2024-05-21 16:36:59 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160710_400.jpg
+[2024-05-21 16:36:59 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160710_400.json
+[2024-05-21 16:37:00 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160707_394.jpg
+[2024-05-21 16:37:00 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160707_394.json
+[2024-05-21 16:37:01 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160704_388.jpg
+[2024-05-21 16:37:01 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160704_388.json
+[2024-05-21 16:37:02 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160701_383.jpg
+[2024-05-21 16:37:02 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160701_383.json
+[2024-05-21 16:37:03 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160658_376.jpg
+[2024-05-21 16:37:03 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160658_376.json
+[2024-05-21 16:37:05 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160224_912.jpg
+[2024-05-21 16:37:05 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160224_912.json
+[2024-05-21 16:37:06 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160221_906.jpg
+[2024-05-21 16:37:06 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160221_906.json
+[2024-05-21 16:37:07 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160218_899.jpg
+[2024-05-21 16:37:07 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160218_899.json
+[2024-05-21 16:37:08 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160215_894.jpg
+[2024-05-21 16:37:08 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160215_894.json
+[2024-05-21 16:37:09 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160212_887.jpg
+[2024-05-21 16:37:09 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/160212_887.json
+[2024-05-21 16:38:00 - latest_file.sh] Latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:00 - secon_latest_file.sh] Second latest file: 2024-05-21/161426_467
+[2024-05-21 16:38:03 - latest_file.sh] Latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:03 - secon_latest_file.sh] Second latest file: 2024-05-21/161426_467
+[2024-05-21 16:38:06 - latest_file.sh] Latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:06 - secon_latest_file.sh] Second latest file: 2024-05-21/161426_467
+[2024-05-21 16:38:09 - latest_file.sh] Latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:09 - secon_latest_file.sh] Second latest file: 2024-05-21/161426_467
+[2024-05-21 16:38:12 - latest_file.sh] Latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:12 - secon_latest_file.sh] Second latest file: 2024-05-21/161426_467
+[2024-05-21 16:38:15 - latest_file.sh] Latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:15 - secon_latest_file.sh] Second latest file: 2024-05-21/161426_467
+[2024-05-21 16:38:18 - latest_file.sh] Latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:18 - secon_latest_file.sh] Second latest file: 2024-05-21/161426_467
+[2024-05-21 16:38:21 - latest_file.sh] Latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:21 - set_trigger.sh] Trigger value updated to Time successfully
+[2024-05-21 16:38:21 - move_image.sh] Saved 2024-05-21/161429_472
+[2024-05-21 16:38:21 - time_trigger.sh] Saving image due to time trigger
+[2024-05-21 16:38:21 - latest_file.sh] Latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:21 - secon_latest_file.sh] Second latest file: 2024-05-21/161426_467
+[2024-05-21 16:38:24 - latest_file.sh] Latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:24 - secon_latest_file.sh] Second latest file: 2024-05-21/161426_467
+[2024-05-21 16:38:27 - latest_file.sh] Latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:27 - secon_latest_file.sh] Second latest file: 2024-05-21/161426_467
+[2024-05-21 16:38:30 - latest_file.sh] Latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:30 - secon_latest_file.sh] Second latest file: 2024-05-21/161426_467
+[2024-05-21 16:38:33 - latest_file.sh] Latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:33 - secon_latest_file.sh] Second latest file: 2024-05-21/161426_467
+[2024-05-21 16:38:36 - latest_file.sh] Latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:37 - secon_latest_file.sh] Second latest file: 2024-05-21/161426_467
+[2024-05-21 16:38:40 - latest_file.sh] Latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:40 - secon_latest_file.sh] Second latest file: 2024-05-21/161426_467
+[2024-05-21 16:38:41 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161402_418.jpg
+[2024-05-21 16:38:41 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161402_418.json
+[2024-05-21 16:38:43 - take_photo.sh] Took photo and saved 163839_947.jpg in temp folder}
+[2024-05-21 16:38:45 - latest_file.sh] Latest file: 2024-05-21/163839_947
+[2024-05-21 16:38:45 - secon_latest_file.sh] Second latest file: 2024-05-21/161429_472
+[2024-05-21 16:38:45 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161405_423.jpg
+[2024-05-21 16:38:45 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161405_423.json
+[2024-05-21 16:38:47 - take_photo.sh] Took photo and saved 163843_709.jpg in temp folder}
+[2024-05-21 16:38:48 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161408_429.jpg
+[2024-05-21 16:38:48 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161408_429.json
+[2024-05-21 16:38:49 - latest_file.sh] Latest file: 2024-05-21/163843_709
+[2024-05-21 16:38:49 - movement_trigger.sh] Movement detected in photos, saving last photo
+[2024-05-21 16:38:50 - set_trigger.sh] Trigger value updated to Motion successfully
+[2024-05-21 16:38:50 - move_image.sh] Saved 2024-05-21/163843_709
+[2024-05-21 16:38:50 - latest_file.sh] Latest file: 2024-05-21/163847_554
+[2024-05-21 16:38:50 - secon_latest_file.sh] Second latest file: 2024-05-21/163839_947
+[2024-05-21 16:38:51 - take_photo.sh] Took photo and saved 163847_554.jpg in temp folder}
+[2024-05-21 16:38:53 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161411_435.jpg
+[2024-05-21 16:38:53 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161411_435.json
+[2024-05-21 16:38:54 - latest_file.sh] Latest file: 2024-05-21/163847_554
+[2024-05-21 16:38:54 - secon_latest_file.sh] Second latest file: 2024-05-21/163847_554
+[2024-05-21 16:38:54 - take_photo.sh] Took photo and saved 163851_338.jpg in temp folder}
+[2024-05-21 16:38:56 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161414_441.jpg
+[2024-05-21 16:38:56 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161414_441.json
+[2024-05-21 16:38:58 - take_photo.sh] Took photo and saved 163854_865.jpg in temp folder}
+[2024-05-21 16:38:58 - latest_file.sh] Latest file: 2024-05-21/163854_865
+[2024-05-21 16:38:58 - secon_latest_file.sh] Second latest file: 2024-05-21/163851_338
+[2024-05-21 16:39:00 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161417_453.jpg
+[2024-05-21 16:39:00 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161417_453.json
+[2024-05-21 16:39:02 - take_photo.sh] Took photo and saved 163858_398.jpg in temp folder}
+[2024-05-21 16:39:03 - latest_file.sh] Latest file: 2024-05-21/163858_398
+[2024-05-21 16:39:03 - secon_latest_file.sh] Second latest file: 2024-05-21/163854_865
+[2024-05-21 16:39:03 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161420_454.jpg
+[2024-05-21 16:39:03 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161420_454.json
+[2024-05-21 16:39:05 - take_photo.sh] Took photo and saved 163902_067.jpg in temp folder}
+[2024-05-21 16:39:07 - latest_file.sh] Latest file: 2024-05-21/163902_067
+[2024-05-21 16:39:07 - movement_trigger.sh] Movement detected in photos, saving last photo
+[2024-05-21 16:39:07 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161423_460.jpg
+[2024-05-21 16:39:07 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161423_460.json
+[2024-05-21 16:39:07 - set_trigger.sh] Trigger value updated to Motion successfully
+[2024-05-21 16:39:07 - move_image.sh] Saved 2024-05-21/163902_067
+[2024-05-21 16:39:07 - latest_file.sh] Latest file: 2024-05-21/163905_907
+[2024-05-21 16:39:07 - secon_latest_file.sh] Second latest file: 2024-05-21/163858_398
+[2024-05-21 16:39:09 - take_photo.sh] Took photo and saved 163905_907.jpg in temp folder}
+[2024-05-21 16:39:11 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161426_467.jpg
+[2024-05-21 16:39:11 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161426_467.json
+[2024-05-21 16:39:12 - latest_file.sh] Latest file: 2024-05-21/163905_907
+[2024-05-21 16:39:12 - movement_trigger.sh] Movement detected in photos, saving last photo
+[2024-05-21 16:39:12 - set_trigger.sh] Trigger value updated to Motion successfully
+[2024-05-21 16:39:12 - move_image.sh] Saved 2024-05-21/163905_907
+[2024-05-21 16:39:12 - latest_file.sh] Latest file: 2024-05-21/163909_784
+[2024-05-21 16:39:12 - secon_latest_file.sh] Second latest file: 2024-05-21/163905_907
+[2024-05-21 16:39:13 - take_photo.sh] Took photo and saved 163909_784.jpg in temp folder}
+[2024-05-21 16:39:14 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161429_472.jpg
+[2024-05-21 16:39:15 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/161429_472.json
+[2024-05-21 16:39:16 - take_photo.sh] Took photo and saved 163913_467.jpg in temp folder}
+[2024-05-21 16:39:17 - latest_file.sh] Latest file: 2024-05-21/163913_467
+[2024-05-21 16:39:17 - secon_latest_file.sh] Second latest file: 2024-05-21/163905_907
+[2024-05-21 16:39:19 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163839_947.jpg
+[2024-05-21 16:39:19 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163839_947.json
+[2024-05-21 16:39:20 - take_photo.sh] Took photo and saved 163916_962.jpg in temp folder}
+[2024-05-21 16:39:21 - latest_file.sh] Latest file: 2024-05-21/163916_962
+[2024-05-21 16:39:21 - secon_latest_file.sh] Second latest file: 2024-05-21/163913_467
+[2024-05-21 16:39:22 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163843_709.jpg
+[2024-05-21 16:39:22 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163843_709.json
+[2024-05-21 16:39:24 - take_photo.sh] Took photo and saved 163920_643.jpg in temp folder}
+[2024-05-21 16:39:25 - latest_file.sh] Latest file: 2024-05-21/163920_643
+[2024-05-21 16:39:26 - secon_latest_file.sh] Second latest file: 2024-05-21/163916_962
+[2024-05-21 16:39:26 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163847_554.jpg
+[2024-05-21 16:39:26 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163847_554.json
+[2024-05-21 16:39:28 - take_photo.sh] Took photo and saved 163924_456.jpg in temp folder}
+[2024-05-21 16:39:30 - latest_file.sh] Latest file: 2024-05-21/163924_456
+[2024-05-21 16:39:30 - secon_latest_file.sh] Second latest file: 2024-05-21/163920_643
+[2024-05-21 16:39:30 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163851_338.jpg
+[2024-05-21 16:39:30 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163851_338.json
+[2024-05-21 16:39:32 - take_photo.sh] Took photo and saved 163928_285.jpg in temp folder}
+[2024-05-21 16:39:33 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163854_865.jpg
+[2024-05-21 16:39:33 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163854_865.json
+[2024-05-21 16:39:34 - latest_file.sh] Latest file: 2024-05-21/163928_285
+[2024-05-21 16:39:34 - secon_latest_file.sh] Second latest file: 2024-05-21/163924_456
+[2024-05-21 16:39:35 - take_photo.sh] Took photo and saved 163932_134.jpg in temp folder}
+[2024-05-21 16:39:37 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163858_398.jpg
+[2024-05-21 16:39:37 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163858_398.json
+[2024-05-21 16:39:39 - take_photo.sh] Took photo and saved 163935_742.jpg in temp folder}
+[2024-05-21 16:39:39 - latest_file.sh] Latest file: 2024-05-21/163935_742
+[2024-05-21 16:39:39 - secon_latest_file.sh] Second latest file: 2024-05-21/163932_134
+[2024-05-21 16:39:40 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163902_067.jpg
+[2024-05-21 16:39:40 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163902_067.json
+[2024-05-21 16:39:42 - take_photo.sh] Took photo and saved 163939_286.jpg in temp folder}
+[2024-05-21 16:39:43 - latest_file.sh] Latest file: 2024-05-21/163939_286
+[2024-05-21 16:39:43 - secon_latest_file.sh] Second latest file: 2024-05-21/163935_742
+[2024-05-21 16:39:45 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163905_907.jpg
+[2024-05-21 16:39:45 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163905_907.json
+[2024-05-21 16:39:46 - take_photo.sh] Took photo and saved 163942_939.jpg in temp folder}
+[2024-05-21 16:39:48 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163909_784.jpg
+[2024-05-21 16:39:48 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163909_784.json
+[2024-05-21 16:39:48 - latest_file.sh] Latest file: 2024-05-21/163942_939
+[2024-05-21 16:39:48 - secon_latest_file.sh] Second latest file: 2024-05-21/163939_286
+[2024-05-21 16:39:50 - take_photo.sh] Took photo and saved 163946_744.jpg in temp folder}
+[2024-05-21 16:39:52 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163913_467.jpg
+[2024-05-21 16:39:52 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163913_467.json
+[2024-05-21 16:39:53 - latest_file.sh] Latest file: 2024-05-21/163946_744
+[2024-05-21 16:39:53 - secon_latest_file.sh] Second latest file: 2024-05-21/163942_939
+[2024-05-21 16:39:54 - take_photo.sh] Took photo and saved 163950_610.jpg in temp folder}
+[2024-05-21 16:39:56 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163916_962.jpg
+[2024-05-21 16:39:56 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163916_962.json
+[2024-05-21 16:39:57 - latest_file.sh] Latest file: 2024-05-21/163950_610
+[2024-05-21 16:39:57 - secon_latest_file.sh] Second latest file: 2024-05-21/163946_744
+[2024-05-21 16:39:57 - take_photo.sh] Took photo and saved 163954_346.jpg in temp folder}
+[2024-05-21 16:39:59 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163920_643.jpg
+[2024-05-21 16:39:59 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163920_643.json
+[2024-05-21 16:40:01 - take_photo.sh] Took photo and saved 163957_903.jpg in temp folder}
+[2024-05-21 16:40:01 - latest_file.sh] Latest file: 2024-05-21/163957_903
+[2024-05-21 16:40:01 - secon_latest_file.sh] Second latest file: 2024-05-21/163954_346
+[2024-05-21 16:40:03 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163924_456.jpg
+[2024-05-21 16:40:03 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163924_456.json
+[2024-05-21 16:40:05 - take_photo.sh] Took photo and saved 164001_470.jpg in temp folder}
+[2024-05-21 16:40:06 - latest_file.sh] Latest file: 2024-05-21/164001_470
+[2024-05-21 16:40:06 - secon_latest_file.sh] Second latest file: 2024-05-21/163957_903
+[2024-05-21 16:40:06 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163928_285.jpg
+[2024-05-21 16:40:06 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163928_285.json
+[2024-05-21 16:40:09 - take_photo.sh] Took photo and saved 164005_192.jpg in temp folder}
+[2024-05-21 16:40:10 - latest_file.sh] Latest file: 2024-05-21/164005_192
+[2024-05-21 16:40:10 - secon_latest_file.sh] Second latest file: 2024-05-21/164001_470
+[2024-05-21 16:40:11 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163932_134.jpg
+[2024-05-21 16:40:11 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163932_134.json
+[2024-05-21 16:40:12 - take_photo.sh] Took photo and saved 164009_083.jpg in temp folder}
+[2024-05-21 16:40:15 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163935_742.jpg
+[2024-05-21 16:40:15 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163935_742.json
+[2024-05-21 16:40:15 - latest_file.sh] Latest file: 2024-05-21/164009_083
+[2024-05-21 16:40:15 - secon_latest_file.sh] Second latest file: 2024-05-21/164005_192
+[2024-05-21 16:40:16 - take_photo.sh] Took photo and saved 164012_982.jpg in temp folder}
+[2024-05-21 16:40:18 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163939_286.jpg
+[2024-05-21 16:40:18 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163939_286.json
+[2024-05-21 16:40:19 - latest_file.sh] Latest file: 2024-05-21/164012_982
+[2024-05-21 16:40:20 - secon_latest_file.sh] Second latest file: 2024-05-21/164009_083
+[2024-05-21 16:40:20 - take_photo.sh] Took photo and saved 164016_784.jpg in temp folder}
+[2024-05-21 16:40:22 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163942_939.jpg
+[2024-05-21 16:40:22 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163942_939.json
+[2024-05-21 16:40:24 - take_photo.sh] Took photo and saved 164020_599.jpg in temp folder}
+[2024-05-21 16:40:24 - latest_file.sh] Latest file: 2024-05-21/164020_599
+[2024-05-21 16:40:24 - secon_latest_file.sh] Second latest file: 2024-05-21/164016_784
+[2024-05-21 16:40:26 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163946_744.jpg
+[2024-05-21 16:40:26 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163946_744.json
+[2024-05-21 16:40:28 - take_photo.sh] Took photo and saved 164024_402.jpg in temp folder}
+[2024-05-21 16:40:29 - latest_file.sh] Latest file: 2024-05-21/164024_402
+[2024-05-21 16:40:29 - secon_latest_file.sh] Second latest file: 2024-05-21/164020_599
+[2024-05-21 16:40:30 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163950_610.jpg
+[2024-05-21 16:40:30 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163950_610.json
+[2024-05-21 16:40:32 - take_photo.sh] Took photo and saved 164028_243.jpg in temp folder}
+[2024-05-21 16:40:33 - latest_file.sh] Latest file: 2024-05-21/164028_243
+[2024-05-21 16:40:33 - secon_latest_file.sh] Second latest file: 2024-05-21/164024_402
+[2024-05-21 16:40:34 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163954_346.jpg
+[2024-05-21 16:40:34 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163954_346.json
+[2024-05-21 16:40:36 - take_photo.sh] Took photo and saved 164032_357.jpg in temp folder}
+[2024-05-21 16:40:38 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163957_903.jpg
+[2024-05-21 16:40:38 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/163957_903.json
+[2024-05-21 16:40:38 - latest_file.sh] Latest file: 2024-05-21/164032_357
+[2024-05-21 16:40:38 - secon_latest_file.sh] Second latest file: 2024-05-21/164028_243
+[2024-05-21 16:40:40 - take_photo.sh] Took photo and saved 164036_507.jpg in temp folder}
+[2024-05-21 16:40:42 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164001_470.jpg
+[2024-05-21 16:40:42 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164001_470.json
+[2024-05-21 16:40:43 - latest_file.sh] Latest file: 2024-05-21/164036_507
+[2024-05-21 16:40:43 - secon_latest_file.sh] Second latest file: 2024-05-21/164032_357
+[2024-05-21 16:40:44 - take_photo.sh] Took photo and saved 164040_645.jpg in temp folder}
+[2024-05-21 16:40:46 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164005_192.jpg
+[2024-05-21 16:40:46 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164005_192.json
+[2024-05-21 16:40:47 - latest_file.sh] Latest file: 2024-05-21/164040_645
+[2024-05-21 16:40:47 - secon_latest_file.sh] Second latest file: 2024-05-21/164036_507
+[2024-05-21 16:40:48 - take_photo.sh] Took photo and saved 164044_647.jpg in temp folder}
+[2024-05-21 16:40:50 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164009_083.jpg
+[2024-05-21 16:40:50 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164009_083.json
+[2024-05-21 16:40:52 - take_photo.sh] Took photo and saved 164048_544.jpg in temp folder}
+[2024-05-21 16:40:52 - latest_file.sh] Latest file: 2024-05-21/164048_544
+[2024-05-21 16:40:52 - secon_latest_file.sh] Second latest file: 2024-05-21/164044_647
+[2024-05-21 16:40:54 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164012_982.jpg
+[2024-05-21 16:40:54 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164012_982.json
+[2024-05-21 16:40:56 - take_photo.sh] Took photo and saved 164052_381.jpg in temp folder}
+[2024-05-21 16:40:57 - latest_file.sh] Latest file: 2024-05-21/164052_381
+[2024-05-21 16:40:57 - secon_latest_file.sh] Second latest file: 2024-05-21/164048_544
+[2024-05-21 16:40:57 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164016_784.jpg
+[2024-05-21 16:40:58 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164016_784.json
+[2024-05-21 16:41:00 - take_photo.sh] Took photo and saved 164056_348.jpg in temp folder}
+[2024-05-21 16:41:01 - latest_file.sh] Latest file: 2024-05-21/164056_348
+[2024-05-21 16:41:01 - secon_latest_file.sh] Second latest file: 2024-05-21/164052_381
+[2024-05-21 16:41:02 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164020_599.jpg
+[2024-05-21 16:41:02 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164020_599.json
+[2024-05-21 16:41:04 - take_photo.sh] Took photo and saved 164100_458.jpg in temp folder}
+[2024-05-21 16:41:06 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164024_402.jpg
+[2024-05-21 16:41:06 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164024_402.json
+[2024-05-21 16:41:06 - latest_file.sh] Latest file: 2024-05-21/164100_458
+[2024-05-21 16:41:06 - secon_latest_file.sh] Second latest file: 2024-05-21/164056_348
+[2024-05-21 16:41:08 - take_photo.sh] Took photo and saved 164104_643.jpg in temp folder}
+[2024-05-21 16:41:10 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164028_243.jpg
+[2024-05-21 16:41:10 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164028_243.json
+[2024-05-21 16:41:11 - latest_file.sh] Latest file: 2024-05-21/164104_643
+[2024-05-21 16:41:11 - secon_latest_file.sh] Second latest file: 2024-05-21/164100_458
+[2024-05-21 16:41:13 - take_photo.sh] Took photo and saved 164108_799.jpg in temp folder}
+[2024-05-21 16:41:14 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164032_357.jpg
+[2024-05-21 16:41:14 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164032_357.json
+[2024-05-21 16:41:16 - latest_file.sh] Latest file: 2024-05-21/164108_799
+[2024-05-21 16:41:16 - secon_latest_file.sh] Second latest file: 2024-05-21/164104_643
+[2024-05-21 16:41:17 - take_photo.sh] Took photo and saved 164113_026.jpg in temp folder}
+[2024-05-21 16:41:18 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164036_507.jpg
+[2024-05-21 16:41:18 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164036_507.json
+[2024-05-21 16:41:20 - latest_file.sh] Latest file: 2024-05-21/164113_026
+[2024-05-21 16:41:20 - secon_latest_file.sh] Second latest file: 2024-05-21/164108_799
+[2024-05-21 16:41:20 - take_photo.sh] Took photo and saved 164117_089.jpg in temp folder}
+[2024-05-21 16:41:23 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164040_645.jpg
+[2024-05-21 16:41:23 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164040_645.json
+[2024-05-21 16:41:24 - take_photo.sh] Took photo and saved 164121_007.jpg in temp folder}
+[2024-05-21 16:41:25 - latest_file.sh] Latest file: 2024-05-21/164121_007
+[2024-05-21 16:41:25 - secon_latest_file.sh] Second latest file: 2024-05-21/164117_089
+[2024-05-21 16:41:27 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164044_647.jpg
+[2024-05-21 16:41:27 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164044_647.json
+[2024-05-21 16:41:28 - take_photo.sh] Took photo and saved 164124_930.jpg in temp folder}
+[2024-05-21 16:41:30 - latest_file.sh] Latest file: 2024-05-21/164124_930
+[2024-05-21 16:41:30 - secon_latest_file.sh] Second latest file: 2024-05-21/164121_007
+[2024-05-21 16:41:31 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164048_544.jpg
+[2024-05-21 16:41:31 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164048_544.json
+[2024-05-21 16:41:33 - take_photo.sh] Took photo and saved 164128_934.jpg in temp folder}
+[2024-05-21 16:41:34 - latest_file.sh] Latest file: 2024-05-21/164128_934
+[2024-05-21 16:41:34 - secon_latest_file.sh] Second latest file: 2024-05-21/164124_930
+[2024-05-21 16:41:35 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164052_381.jpg
+[2024-05-21 16:41:35 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164052_381.json
+[2024-05-21 16:41:37 - take_photo.sh] Took photo and saved 164133_161.jpg in temp folder}
+[2024-05-21 16:41:39 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164056_348.jpg
+[2024-05-21 16:41:39 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164056_348.json
+[2024-05-21 16:41:39 - latest_file.sh] Latest file: 2024-05-21/164133_161
+[2024-05-21 16:41:39 - secon_latest_file.sh] Second latest file: 2024-05-21/164128_934
+[2024-05-21 16:41:41 - take_photo.sh] Took photo and saved 164137_400.jpg in temp folder}
+[2024-05-21 16:41:43 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164100_458.jpg
+[2024-05-21 16:41:43 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164100_458.json
+[2024-05-21 16:41:44 - latest_file.sh] Latest file: 2024-05-21/164137_400
+[2024-05-21 16:41:44 - secon_latest_file.sh] Second latest file: 2024-05-21/164133_161
+[2024-05-21 16:41:45 - take_photo.sh] Took photo and saved 164141_602.jpg in temp folder}
+[2024-05-21 16:41:48 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164104_643.jpg
+[2024-05-21 16:41:48 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164104_643.json
+[2024-05-21 16:41:49 - latest_file.sh] Latest file: 2024-05-21/164141_602
+[2024-05-21 16:41:49 - secon_latest_file.sh] Second latest file: 2024-05-21/164137_400
+[2024-05-21 16:41:49 - take_photo.sh] Took photo and saved 164145_671.jpg in temp folder}
+[2024-05-21 16:41:52 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164108_799.jpg
+[2024-05-21 16:41:52 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164108_799.json
+[2024-05-21 16:41:53 - take_photo.sh] Took photo and saved 164149_667.jpg in temp folder}
+[2024-05-21 16:41:54 - latest_file.sh] Latest file: 2024-05-21/164149_667
+[2024-05-21 16:41:54 - secon_latest_file.sh] Second latest file: 2024-05-21/164145_671
+[2024-05-21 16:41:55 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164113_026.jpg
+[2024-05-21 16:41:55 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164113_026.json
+[2024-05-21 16:41:57 - take_photo.sh] Took photo and saved 164153_699.jpg in temp folder}
+[2024-05-21 16:41:58 - latest_file.sh] Latest file: 2024-05-21/164153_699
+[2024-05-21 16:41:58 - secon_latest_file.sh] Second latest file: 2024-05-21/164149_667
+[2024-05-21 16:41:59 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164117_089.jpg
+[2024-05-21 16:41:59 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164117_089.json
+[2024-05-21 16:42:01 - take_photo.sh] Took photo and saved 164157_711.jpg in temp folder}
+[2024-05-21 16:42:03 - latest_file.sh] Latest file: 2024-05-21/164157_711
+[2024-05-21 16:42:03 - secon_latest_file.sh] Second latest file: 2024-05-21/164153_699
+[2024-05-21 16:42:03 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164121_007.jpg
+[2024-05-21 16:42:03 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164121_007.json
+[2024-05-21 16:42:06 - take_photo.sh] Took photo and saved 164201_933.jpg in temp folder}
+[2024-05-21 16:42:07 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164124_930.jpg
+[2024-05-21 16:42:07 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164124_930.json
+[2024-05-21 16:42:08 - latest_file.sh] Latest file: 2024-05-21/164201_933
+[2024-05-21 16:42:08 - secon_latest_file.sh] Second latest file: 2024-05-21/164157_711
+[2024-05-21 16:42:10 - take_photo.sh] Took photo and saved 164206_179.jpg in temp folder}
+[2024-05-21 16:42:12 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164128_934.jpg
+[2024-05-21 16:42:12 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164128_934.json
+[2024-05-21 16:42:13 - latest_file.sh] Latest file: 2024-05-21/164206_179
+[2024-05-21 16:42:13 - secon_latest_file.sh] Second latest file: 2024-05-21/164201_933
+[2024-05-21 16:42:14 - take_photo.sh] Took photo and saved 164210_390.jpg in temp folder}
+[2024-05-21 16:42:17 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164133_161.jpg
+[2024-05-21 16:42:17 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164133_161.json
+[2024-05-21 16:42:17 - latest_file.sh] Latest file: 2024-05-21/164210_390
+[2024-05-21 16:42:18 - secon_latest_file.sh] Second latest file: 2024-05-21/164206_179
+[2024-05-21 16:42:18 - take_photo.sh] Took photo and saved 164214_559.jpg in temp folder}
+[2024-05-21 16:42:20 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164137_400.jpg
+[2024-05-21 16:42:20 - clean_up.sh] Removed /home/g6/emli-mini-project/temp/2024-05-21/164137_400.json
+[2024-05-21 16:42:22 - take_photo.sh] Took photo and saved 164218_623.jpg in temp folder}
+[2024-05-21 16:42:22 - latest_file.sh] Latest file: 2024-05-21/164218_623
+[2024-05-21 16:42:22 - secon_latest_file.sh] Second latest file: 2024-05-21/164214_559

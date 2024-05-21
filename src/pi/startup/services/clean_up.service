@@ -1,0 +1,8 @@
+[Unit]
+Description=Service to continously remove photos from temp
+[Service]
+ExecStart=/home/g6/emli-mini-project/src/pi/photo/clean_up.sh
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

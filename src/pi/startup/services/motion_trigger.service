@@ -1,0 +1,9 @@
+[Unit]
+Description=Service to continously save photos if movement is detected
+
+[Service]
+ExecStart=/home/g6/emli-mini-project/src/pi/trigger/movement_trigger.sh
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

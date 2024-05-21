@@ -1,0 +1,9 @@
+[Unit]
+Description=Service to continously save photos with 5 minutes apart
+
+[Service]
+ExecStart=/home/g6/emli-mini-project/src/pi/trigger/time_trigger.sh
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

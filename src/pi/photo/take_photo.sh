@@ -35,3 +35,4 @@ EOF
 
 json_filename=$(echo "/home/g6/emli-mini-project/temp/${dir}/$file_name" | sed "s/jpg/json/g")
 echo "$json_name" > $json_filename
+echo "[$(date +'%Y-%m-%d %H:%M:%S') - take_photo.sh] Took photo and saved $file_name in temp folder}" >> /home/g6/emli-mini-project/log/log.txt

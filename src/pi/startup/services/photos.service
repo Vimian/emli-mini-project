@@ -1,0 +1,9 @@
+[Unit]
+Description=Service to continously taking photos
+
+[Service]
+ExecStart=/home/g6/emli-mini-project/src/pi/photo/repeat_take_photo.sh
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

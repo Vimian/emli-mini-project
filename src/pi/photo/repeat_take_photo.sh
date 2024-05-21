@@ -3,7 +3,7 @@
 while true
 do
   start_time=$(date +%s%N)
-  /home/g6/emli-mini-project/src/take_photo.sh
+  /home/g6/emli-mini-project/src/pi/photo/take_photo.sh
   end_time=$(date +%s%N)
 
   elapsed=$(( (end_time - start_time) / 1000000 ))

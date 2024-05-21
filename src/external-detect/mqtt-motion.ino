@@ -1,3 +1,5 @@
+
+
 // Embedded Linux (EMLI)
 // University of Southern Denmark
 
@@ -20,32 +22,15 @@ ESP8266WiFiMulti WiFiMulti;
 const uint32_t conn_tout_ms = 5000;
 
 // counter
-#define GPIO_INTERRUPT_PIN 4
-#define DEBOUNCE_TIME 100 
-
-// Button check
-volatile unsigned long prev_time;
-volatile bool pressed = false;
+#define GPIO_PIN 4
 
 // mqtt
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
 WiFiClient wifi_client;
 Adafruit_MQTT_Client mqtt(&wifi_client, MQTT_SERVER, MQTT_SERVERPORT, MQTT_USERNAME, MQTT_KEY);
-Adafruit_MQTT_Publish animal_mqtt_publish = Adafruit_MQTT_Publish(&mqtt, MQTT_USERNAME MQTT_TOPIC);
+Adafruit_MQTT_Publish count_mqtt_publish = Adafruit_MQTT_Publish(&mqtt, MQTT_USERNAME MQTT_TOPIC);
 
-// debug
-#define DEBUG_INTERVAL 2000
-unsigned long prev_debug_time;
-
-ICACHE_RAM_ATTR void count_isr()
-{
-  if (prev_time + DEBOUNCE_TIME < millis() || prev_time > millis())
-  {
-    prev_time = millis(); 
-    pressed = true;
-  }
-}
 
 void debug(const char *s)
 {
@@ -87,10 +72,8 @@ void print_wifi_status()
 
 void setup()
 {
-  prev_time = millis();
-  pinMode(GPIO_INTERRUPT_PIN, INPUT_PULLUP);
-  attachInterrupt(digitalPinToInterrupt(GPIO_INTERRUPT_PIN), count_isr, RISING);
-
+  pinMode(GPIO_PIN, INPUT_PULLUP);
+  
   // serial
   Serial.begin(115200);
   delay(10);
@@ -125,7 +108,7 @@ void publish_data()
     print_wifi_status();
   
     mqtt_connect();
-    if (! animal_mqtt_publish.publish(payload))
+    if (! count_mqtt_publish.publish(payload))
     {
       debug("MQTT failed");
     }
@@ -136,14 +119,20 @@ void publish_data()
   }
 }
 
+
+int previousButtonState = 0;
+unsigned long lastChange = 0;
 void loop()
 {
-    if (pressed)
-    {
-      Serial.print(millis());
-      Serial.println("Animal spotted");
-      pressed = false;
-      publish_data();
+  if (millis() - lastChange >= 100) {
+    int currentState = digitalRead(GPIO_PIN);
+    if (currentState != previousButtonState) {
+      if (currentState == 0) {
+        publish_data();
+      }
+      lastChange = millis();
+      previousButtonState = currentState;
     }
+  }
 }
 

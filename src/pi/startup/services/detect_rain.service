@@ -1,0 +1,9 @@
+[Unit]
+Description=Service to continously detect rain over mqtt
+
+[Service]
+ExecStart=/home/g6/emli-mini-project/src/pi/rain-sensor/detect_rain.sh
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
