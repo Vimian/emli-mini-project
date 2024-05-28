@@ -17,4 +17,4 @@ JSON=$(cat <<EOF
 EOF
 )
 
-./set_annotation.sh ".$path.json" "$JSON"
+./set_annotation.sh "./$path.json" "$JSON"

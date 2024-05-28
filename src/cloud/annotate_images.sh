@@ -16,17 +16,20 @@ is_processed() {
 }
 
 # Iterate over each .jpg file in the directory
-for image_path in "$image_dir"/*.jpg; do
+for image_path in "$image_dir"/*/*.jpg; do
   if [ -e "$image_path" ]; then
+    image_dis=$(echo "$image_path" | awk -F'/' '{print $(NF-1)}')
     image_name=$(basename "$image_path" .jpg)
+    image_loc="$image_dis/$image_name"
     
     # Check if the image has already been processed
-    if ! is_processed "$image_name"; then
+    if ! is_processed "$image_loc"; then
       # Run the description script
-      ./make_description.sh "/../drone/photos/$image_name"
+      echo "/../drone/photos/$image_name"
+      ./make_description.sh "./../drone/photos/$image_loc"
       
       # Log the processed image name
-      echo "$image_name" >> "$log_file"
+      echo "$image_loc" >> "$log_file"
     fi
   fi
 done
