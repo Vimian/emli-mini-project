@@ -1,0 +1,13 @@
+{
+  "File Name": "121901_567.jpg",
+  "Create Date": "2024-05-28 12:19:02",
+  "Create Seconds Epoch": 1716891542.567,
+  "Trigger": "Motion",
+  "Subject Distance": 0.6468305304,
+  "Exposure Time": "1/41",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image captures a scene that appears to be in the process of being photographed. There's a camera flash reflected on the ceiling, indicating that a picture is being taken. Below the reflective surface, we can see two circular objects, possibly lights or lamps, each with a distinct pattern: one has a checkered design, and the other has a grid-like pattern. The objects are mounted on a rectangular surface that resembles a ceiling tile. The background of the image is not clearly visible due to the angle at which it's taken. "
+  }
+}

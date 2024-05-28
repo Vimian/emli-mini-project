@@ -1,0 +1,13 @@
+{
+  "File Name": "122124_906.jpg",
+  "Create Date": "2024-05-28 12:21:26",
+  "Create Seconds Epoch": 1716891686.906,
+  "Trigger": "Motion",
+  "Subject Distance": 0.7451564829,
+  "Exposure Time": "1/48",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image shows the interior of a space with modern design elements. The ceiling is black with recessed lighting and what appears to be an air vent or decorative feature on the left side. There are two circular lights, one on each end, that provide illumination to the room. On the right side, there is a wall-mounted speaker, painted in the same black color as the ceiling. The flooring is not fully visible, but it appears to be of a lighter color, possibly carpet or linoleum. The lighting in the room suggests an indoor environment, and the overall aesthetic gives the space a contemporary and sleek look. "
+  }
+}

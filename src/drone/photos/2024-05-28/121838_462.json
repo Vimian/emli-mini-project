@@ -1,0 +1,13 @@
+{
+  "File Name": "121838_462.jpg",
+  "Create Date": "2024-05-28 12:18:39",
+  "Create Seconds Epoch": 1716891519.462,
+  "Trigger": "Motion",
+  "Subject Distance": 0.700280112,
+  "Exposure Time": "1/33",
+  "ISO": 123,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " This image captures a person in the foreground and a background that appears to be taken from a different angle or shot. The individual in the foreground is facing the camera, and it seems like they might be standing on a stage or near a presentation setup, given the presence of lights and what looks like a microphone. Their expression is not fully visible due to their pose, but they appear to be engaged in an event or performance. In the background, there's another person who seems to be facing away from the camera, possibly interacting with something that's not in the frame. The overall setting suggests some form of public speaking or live performance event. "
+  }
+}

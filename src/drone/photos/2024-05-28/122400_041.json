@@ -1,0 +1,13 @@
+{
+  "File Name": "122400_041.jpg",
+  "Create Date": "2024-05-28 12:24:01",
+  "Create Seconds Epoch": 1716891841.041,
+  "Trigger": "Motion",
+  "Subject Distance": 0.7698229407,
+  "Exposure Time": "1/48",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image depicts an interior space with a modern design aesthetic. On the left, there is a large piece of artwork, possibly a painting or sculpture, mounted on a dark wall. Adjacent to this artwork, on the right, are two circular light fixtures that appear to be part of a contemporary lighting installation. These lights cast soft illumination across the surface of the artwork and onto the floor. The overall ambiance suggests a well-lit and thoughtfully designed environment, perhaps within an art gallery or modern exhibition space. "
+  }
+}

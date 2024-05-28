@@ -1,0 +1,13 @@
+{
+  "File Name": "122004_583.jpg",
+  "Create Date": "2024-05-28 12:20:06",
+  "Create Seconds Epoch": 1716891606.583,
+  "Trigger": "Motion",
+  "Subject Distance": 0.5431830527,
+  "Exposure Time": "1/40",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image is a low-resolution photograph of an interior ceiling with various elements. Two circular light fixtures are visible, and between them is a rectangular vent or grate with three small, round perforations. On either side of the central vent are what appear to be circular air vents with similar small round perforations. Above these, there's a prominent circular object that could be a light fixture or some sort of ceiling feature. The image also contains a watermark or text overlaying the lower half, obscuring part of the scene and making it difficult to discern any additional details about the room or its purpose. "
+  }
+}

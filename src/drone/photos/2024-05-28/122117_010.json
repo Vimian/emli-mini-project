@@ -1,0 +1,13 @@
+{
+  "File Name": "122117_010.jpg",
+  "Create Date": "2024-05-28 12:21:18",
+  "Create Seconds Epoch": 1716891678.01,
+  "Trigger": "Motion",
+  "Subject Distance": 0.5959475566,
+  "Exposure Time": "1/33",
+  "ISO": 113,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image shows a close-up view of an interior space, possibly a room or an area within a building. There's an interesting perspective where the angle captures two lights on opposite sides of the frame. In the center of the photo, there's a circular object that seems to be a light fixture, with its illuminated bulb casting a warm glow. The surrounding environment is blurred out due to the depth of field used in the photograph. There is no text visible in the image. "
+  }
+}

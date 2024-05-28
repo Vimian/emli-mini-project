@@ -1,0 +1,13 @@
+{
+  "File Name": "122521_252.jpg",
+  "Create Date": "2024-05-28 12:25:22",
+  "Create Seconds Epoch": 1716891922.252,
+  "Trigger": "Motion",
+  "Subject Distance": 0.6006006006,
+  "Exposure Time": "1/42",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image shows an interior space, likely a room or a small office. There are three circular elements on the wall, which could be lights or decorations. Two of these elements are closer to each other and appear to have a different texture compared to the third one, which is positioned further away. A round ceiling light is turned off and situated towards the bottom center of the image. On the left side, there's an open door revealing another space with a carpeted floor and some objects on it, but not enough detail to identify what they are. The lighting in the room suggests it might be daytime. "
+  }
+}

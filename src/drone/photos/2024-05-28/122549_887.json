@@ -1,0 +1,13 @@
+{
+  "File Name": "122549_887.jpg",
+  "Create Date": "2024-05-28 12:25:51",
+  "Create Seconds Epoch": 1716891951.887,
+  "Trigger": "Motion",
+  "Subject Distance": 0.599880024,
+  "Exposure Time": "1/47",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image shows an interior view of a ceiling, likely within a building. There is a patterned design on the ceiling, which appears to be a speaker or lighting fixture. Below this, there are two circular cutouts that resemble holes for speakers. To the right of these cutouts, there's a small orange light visible. The photo has been taken in portrait orientation and has a slight slant to it, with the camera angle not perfectly horizontal, which makes some lines on the ceiling appear as if they are leaning or sloping downward. "
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "File Name": "122355_861.jpg",
+  "Create Date": "2024-05-28 12:23:57",
+  "Create Seconds Epoch": 1716891837.861,
+  "Trigger": "Motion",
+  "Subject Distance": 0.7710100231,
+  "Exposure Time": "1/49",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image showcases an interior space, possibly a public area given the architectural elements. There are two circular lights mounted on what appears to be a wall or column, positioned symmetrically from each other and providing a contrast of warm light (on) versus cooler light (off). The space is illuminated by these lights, casting a soft glow that highlights the modern design of the structure. In the background, there's a glimpse of what seems to be a ceiling with exposed ductwork or perhaps an industrial-style aesthetic. "
+  }
+}

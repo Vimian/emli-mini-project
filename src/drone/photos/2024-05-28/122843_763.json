@@ -1,0 +1,13 @@
+{
+  "File Name": "122843_763.jpg",
+  "Create Date": "2024-05-28 12:28:45",
+  "Create Seconds Epoch": 1716892125.763,
+  "Trigger": "Motion",
+  "Subject Distance": 0.5440696409,
+  "Exposure Time": "1/38",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image displays a close-up view of what appears to be the ceiling of an interior space, likely a public area given the presence of a fire sprinkler. The ceiling features a pattern of small light fixtures and perforated metal panels with circular cutouts, allowing for visibility into other areas. On the right side of the image, there is a vertical column partially visible, suggesting the structure may be made from metal or a similar material. A circular object resembling a light fixture or a decorative element hangs above the floor level. The overall appearance of the ceiling suggests a modern and possibly industrial design aesthetic. "
+  }
+}

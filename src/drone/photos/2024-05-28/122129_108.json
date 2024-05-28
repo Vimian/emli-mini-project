@@ -1,0 +1,13 @@
+{
+  "File Name": "122129_108.jpg",
+  "Create Date": "2024-05-28 12:21:30",
+  "Create Seconds Epoch": 1716891690.108,
+  "Trigger": "Motion",
+  "Subject Distance": 0.773993808,
+  "Exposure Time": "1/50",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image shows an interior space, likely a room within a building. The ceiling features a series of circular lights, and the lighting suggests that it might be daytime due to the brightness in the room. There is a prominent round window covered with horizontal blinds located on the left side of the image. On the right side, there are two circular objects that could possibly be light fixtures or art installations, but it's unclear from the image alone what their purpose might be. The floor appears to be a polished surface, and there is a hint of an object resembling a bottle near the bottom right corner of the photo. There are no visible texts or distinctive branding within the frame. "
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "File Name": "121719_186.jpg",
+  "Create Date": "2024-05-28 12:17:20",
+  "Create Seconds Epoch": 1716891440.186,
+  "Trigger": "External",
+  "Subject Distance": 0.5336179296,
+  "Exposure Time": "1/37",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image displays the interior of a building, specifically focusing on the ceiling. A notable feature is an air conditioning unit located centrally above. Below the ceiling, there are two round white objects that appear to be lights or lamps, and they are evenly spaced apart from each other. The lighting in the room suggests that it's well-lit, although the light source seems to be coming from behind the camera, casting shadows on the ceiling and walls. There are also some wires or cables visible on the ceiling. The overall impression is of a functional space, possibly a public area such as a hall or lobby. "
+  }
+}

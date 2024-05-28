@@ -1,5 +1,5 @@
 /temp/
 /images/
-src/drone/photos/
+src/drone/photos/*/*.jpg
 
 ssh_pass

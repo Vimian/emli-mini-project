@@ -1,0 +1,13 @@
+{
+  "File Name": "122853_070.jpg",
+  "Create Date": "2024-05-28 12:28:54",
+  "Create Seconds Epoch": 1716892134.07,
+  "Trigger": "Motion",
+  "Subject Distance": 0.5649717514,
+  "Exposure Time": "1/38",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image captures a modern, well-lit room with a dark ceiling adorned with a pattern of small white dots. On the ceiling, there are two illuminated circular lights positioned in opposite directions from a central point. To the left, a light fixture casts a warm glow across the room. The right wall features a blackboard with some text written on it, although the content is not clearly legible. A prominent feature of this space is a large window that allows for natural light to enter and brightens up the room. On the bottom left of the image, there's a small amount of text visible, but it is too small and blurred to discern its meaning. "
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "File Name": "122217_658.jpg",
+  "Create Date": "2024-05-28 12:22:19",
+  "Create Seconds Epoch": 1716891739.658,
+  "Trigger": "Time",
+  "Subject Distance": 0.7072135785,
+  "Exposure Time": "1/49",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image shows an indoor space, specifically the ceiling of a room. There are three circular light fixtures positioned in a triangular formation, each casting light onto the black surface below them. Each fixture has a single, round illumination that is turned on. In the background, there is a partial view of what appears to be a structure with a patterned design, and two round, white-rimmed objects resembling frying pans are hanging from the ceiling. The ambiance suggests a modern or contemporary interior design style. "
+  }
+}

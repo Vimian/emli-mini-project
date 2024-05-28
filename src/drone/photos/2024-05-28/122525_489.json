@@ -1,0 +1,13 @@
+{
+  "File Name": "122525_489.jpg",
+  "Create Date": "2024-05-28 12:25:26",
+  "Create Seconds Epoch": 1716891926.489,
+  "Trigger": "Motion",
+  "Subject Distance": 0.6309148265,
+  "Exposure Time": "1/48",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image shows a room with a black ceiling and a visible light fixture. There are two circular objects on the wall, one near the top and the other towards the bottom. Both of these circular objects have what appear to be stickers or tape on them, possibly indicating they should not be touched or that there is some specific meaning attached to them in this context. The room has a modern aesthetic with clean lines and a minimalistic design. There's a shadow cast by the light fixture onto the ceiling, adding depth to the space. "
+  }
+}

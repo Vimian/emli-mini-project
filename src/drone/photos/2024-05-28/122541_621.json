@@ -1,0 +1,13 @@
+{
+  "File Name": "122541_621.jpg",
+  "Create Date": "2024-05-28 12:25:43",
+  "Create Seconds Epoch": 1716891943.621,
+  "Trigger": "Motion",
+  "Subject Distance": 1.237623762,
+  "Exposure Time": "1/33",
+  "ISO": 135,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image shows an interior space with a modern architectural design. There's a ceiling with two circular lights, casting a soft glow on the white wall in front of them. On the wall, there are three circular decorations arranged vertically. The floor appears to be carpeted, and a part of a door or a different color surface can be seen in the bottom right corner. A distinctive feature is the presence of two round objects that resemble light fixtures on the ceiling above the three circles on the wall. There's also an illuminated circular object on the left side of the image, which might be a speaker or part of a lighting system. The overall impression is one of a clean and contemporary space. "
+  }
+}

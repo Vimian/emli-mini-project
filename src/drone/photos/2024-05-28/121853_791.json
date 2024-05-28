@@ -1,0 +1,13 @@
+{
+  "File Name": "121853_791.jpg",
+  "Create Date": "2024-05-28 12:18:55",
+  "Create Seconds Epoch": 1716891535.791,
+  "Trigger": "Motion",
+  "Subject Distance": 0.7396449704,
+  "Exposure Time": "1/39",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image displays a ceiling view of a room with a white tiled floor. Two round lights are visible, one on the left and another on the right side of the frame. A large air duct is noticeable in the center, running across the length of the ceiling. The lighting fixtures appear modern and minimalistic, fitting into the contemporary design aesthetic. There is a slight tilt or distortion at the bottom edge of the photo that seems to have been applied digitally, giving the image an unnatural perspective. "
+  }
+}

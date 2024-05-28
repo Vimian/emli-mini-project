@@ -1,0 +1,13 @@
+{
+  "File Name": "121722_190.jpg",
+  "Create Date": "2024-05-28 12:17:23",
+  "Create Seconds Epoch": 1716891443.19,
+  "Trigger": "External",
+  "Subject Distance": 0.5350454789,
+  "Exposure Time": "1/38",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image shows an interior view of a room, possibly a ceiling or floor view due to the perspective. It appears to be taken from a low angle looking upwards. In the foreground, there is a prominent white circular object, which could be part of an architectural feature or a light fixture, with two smaller objects on either side, giving the impression of a symmetrical arrangement. The background reveals a wall with what seems like a grate or ventilation system installed at a height similar to that of the white circular object in the foreground. There are also three circular items, possibly lights or light covers, aligned vertically against the backdrop of the wall. The room has a utilitarian look, and there is no visible text or branding in this section of the image. "
+  }
+}

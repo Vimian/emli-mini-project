@@ -1,0 +1,13 @@
+{
+  "File Name": "122120_881.jpg",
+  "Create Date": "2024-05-28 12:21:22",
+  "Create Seconds Epoch": 1716891682.881,
+  "Trigger": "Motion",
+  "Subject Distance": 0.4875670405,
+  "Exposure Time": "1/35",
+  "ISO": 112,
+  "Annotation": {
+    "Source": "llava:7b",
+    "Test": " The image shows an interior space with a minimalistic design, featuring a white ceiling and a central light source that casts a bright glow. The room has a gray floor and two circular lights mounted on the ceiling, which appear to be off or not in use at this time. On the right side of the room, there's a partial view of an object with a round shape and what seems to be a white cover or surface around it. There is also a visible light switch near the ceiling lights, and the wall behind it has a simple, unadorned design. The perspective of the image is taken from the floor looking upward, providing a comprehensive view of the room's lighting fixtures and the overall ambiance. "
+  }
+}
